@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://montessori-serradell.vercel.app/sitemap.xml
